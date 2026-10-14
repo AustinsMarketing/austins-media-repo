@@ -1,0 +1,8 @@
+P10 W3 final media (Oct 12-18, 2026). Built Oct 13.
+Drop each subfolder's files into the matching subfolder of
+  4) Marketing Plans / 3) Fall-Winter 2026 Marketing / 1) Weekly Builds / P10 W3 - Oct 12-18 - Trunk or Treat Launch
+1) Social: posts and Stories, PNG still + MP4 motion version of each.
+2) Email: every image the Thursday email, Birthday Reminder and Event Reminder use.
+3) Text: the Saturday text card (GIF).
+4) Marquee: the Marquee v9 HTML and its images.
+Then tell Claude the files are in. Claude makes the public links and builds everything in Klaviyo and Metricool.
